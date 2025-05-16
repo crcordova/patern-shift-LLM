@@ -1,0 +1,26 @@
+{
+    "semanas": [
+        {
+            "dias": [
+                "Morning",
+                "Morning",
+                "Free",
+                "Day",
+                "Day",
+                "Day",
+                "Free"
+            ]
+        },
+        {
+            "dias": [
+                "Night",
+                "Night",
+                "Free",
+                "Morning",
+                "Morning",
+                "Morning",
+                "Free"
+            ]
+        }
+    ]
+}
